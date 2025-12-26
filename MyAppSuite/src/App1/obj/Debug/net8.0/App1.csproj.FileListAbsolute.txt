@@ -1,0 +1,14 @@
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/bin/Debug/net8.0/App1
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/bin/Debug/net8.0/App1.deps.json
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/bin/Debug/net8.0/App1.runtimeconfig.json
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/bin/Debug/net8.0/App1.dll
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/bin/Debug/net8.0/App1.pdb
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/App1.GeneratedMSBuildEditorConfig.editorconfig
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/App1.AssemblyInfoInputs.cache
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/App1.AssemblyInfo.cs
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/App1.csproj.CoreCompileInputs.cache
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/App1.dll
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/refint/App1.dll
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/App1.pdb
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/App1.genruntimeconfig.cache
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App1/obj/Debug/net8.0/ref/App1.dll

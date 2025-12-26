@@ -1,0 +1,14 @@
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/bin/Debug/net8.0/MatrixDemo
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/bin/Debug/net8.0/MatrixDemo.deps.json
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/bin/Debug/net8.0/MatrixDemo.runtimeconfig.json
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/bin/Debug/net8.0/MatrixDemo.dll
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/bin/Debug/net8.0/MatrixDemo.pdb
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/MatrixDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/MatrixDemo.AssemblyInfoInputs.cache
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/MatrixDemo.AssemblyInfo.cs
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/MatrixDemo.csproj.CoreCompileInputs.cache
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/MatrixDemo.dll
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/refint/MatrixDemo.dll
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/MatrixDemo.pdb
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/MatrixDemo.genruntimeconfig.cache
+/home/momtookmycomputer/DevProjects/CSharp/MatrixDemo/obj/Debug/net8.0/ref/MatrixDemo.dll
