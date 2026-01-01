@@ -12,3 +12,4 @@
 /home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App2/obj/Debug/net8.0/App2.pdb
 /home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App2/obj/Debug/net8.0/App2.genruntimeconfig.cache
 /home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App2/obj/Debug/net8.0/ref/App2.dll
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/App2/obj/Debug/net8.0/App2.sourcelink.json
