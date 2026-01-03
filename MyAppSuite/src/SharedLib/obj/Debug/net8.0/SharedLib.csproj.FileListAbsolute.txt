@@ -1,0 +1,12 @@
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/bin/Debug/net8.0/SharedLib.deps.json
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/bin/Debug/net8.0/SharedLib.dll
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/bin/Debug/net8.0/SharedLib.pdb
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/SharedLib.AssemblyInfoInputs.cache
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/SharedLib.AssemblyInfo.cs
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/SharedLib.csproj.CoreCompileInputs.cache
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/SharedLib.sourcelink.json
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/SharedLib.dll
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/refint/SharedLib.dll
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/SharedLib.pdb
+/home/momtookmycomputer/DevProjects/CSharp/MyAppSuite/src/SharedLib/obj/Debug/net8.0/ref/SharedLib.dll
